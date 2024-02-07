@@ -6,7 +6,7 @@ Credit card fraud poses a significant threat to both consumers and businesses. T
 
 ## Key Features
 Data Preprocessing: Includes data cleaning, handling missing values, and feature scaling.
-Model Training: Utilizes various machine learning models such as logistic regression, random forest, or XGBoost.
+Model Training: Utilizes various machine learning models such as logistic regression, random forest.
 Model Evaluation: Evaluates model performance using metrics like accuracy, precision, recall, and F1-score.
 
 ## Usage
